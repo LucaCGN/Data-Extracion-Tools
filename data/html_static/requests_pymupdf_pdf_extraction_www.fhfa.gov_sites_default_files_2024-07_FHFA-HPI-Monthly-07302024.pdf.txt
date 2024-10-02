@@ -1,0 +1,1534 @@
+FHFA
+House Price Index (HPI)
+Monthly Report
+Data through May 2024 
+Released on July 30, 2024
+FHFA HPI report contents 
+Page 
+Monthly press release 
+1 
+Tabulating trends in house prices 
+Monthly price changes and index values . . . . . . . . . . . . . . . . . . . . . 
+3 
+Visualizing trends in house prices 
+Time series of national house price index . . . . . . . . . . . . . . . . . . . . 
+5 
+Bar charts of twelve-month price changes for census divisions . . . . . . . . . 
+6 
+Further background information 
+Overview of available datasets . . . . . . . . . . . . . . . . . . . . . . . . . . 
+8 
+FHFA HPI release dates for 2024 . . . . . . . . . . . . . . . . . . . . . . . . 
+9 
+Appendix 
+Table of national house price index . . . . . . . . . . . . . . . . . . . . . . . 
+11 
+Table of twelve-month price changes for census divisions . . . . . . . . . . . 
+21 
+ 
+ 
+FEDERAL HOUSING FINANCE AGENCY 
+ 
+NEWS RELEASE 
+ 
+For Immediate Release 
+Contact: 
+  
+MediaInquiries@FHFA.GOV 
+July 30, 2024 
+ 
+  
+ 
+FHFA House Price Index Unchanged in May; 
+Up 5.7 Percent from Last Year 
+ 
+Washington, D.C. – U.S. house prices were unchanged in May, according to the Federal Housing 
+Finance Agency (FHFA) seasonally adjusted monthly House Price Index (HPI®). House prices rose 
+5.7 percent from May 2023 to May 2024. The previously reported 0.2 percent price increase in April 
+was revised upward to 0.3 percent. 
+ 
+For the nine census divisions, seasonally adjusted monthly price changes from April 2024 to May 
+2024 ranged from -0.5 percent in the West North Central division to +0.3 percent in the New 
+England division. The 12-month changes were all positive, ranging from +2.4 percent in the West 
+South Central division to +9.2 percent in the New England division. 
+ 
+“U.S. house price movement was flat in May,” said Dr. Anju Vajja, Deputy Director for FHFA’s 
+Division of Research and Statistics. “The slowdown in U.S. house price appreciation continued in 
+May amid a slight rise in both mortgage rates and housing inventory.” 
+ 
+The FHFA HPI is a comprehensive collection of publicly available house price indexes that measure 
+changes in single-family home values based on data that extend back to the mid-1970s from all 50 states 
+and over 400 American cities. It incorporates tens of millions of home sales and offers insights about 
+house price changes at the national, census division, state, metro area, county, ZIP code, and census 
+tract levels. FHFA uses a fully transparent methodology based upon a weighted, repeat-sales statistical 
+technique to analyze house price transaction data. 
+ 
+FHFA releases HPI data and reports quarterly and monthly. The flagship FHFA HPI uses seasonally 
+adjusted, purchase-only data from Fannie Mae and Freddie Mac. Additional indexes use other data, 
+including refinances, Federal Housing Administration mortgages, and real property records. All the 
+indexes, including their historic values, and information about future HPI release dates, are available on 
+FHFA’s website: https://www.fhfa.gov/HPI. 
+ 
+The next HPI report will be released August 27, 2024 and will include data for the second quarter of 
+2024 and monthly data through June 2024. 
+ 
+The Federal Housing Finance Agency regulates Fannie Mae, Freddie Mac, and the 11 Federal Home Loan Banks.  These 
+government-sponsored enterprises provide more than $8.4 trillion in funding for the U.S. mortgage markets and financial 
+institutions.  Additional information is available at www.FHFA.gov, on Twitter @FHFA, YouTube, Facebook, and LinkedIn.  
+Tabulating
+trends
+- 2 -
+- 2 -
+U.S.
+Pacific 
+Mountain West North 
+Central
+West South 
+Central
+East North 
+Central
+East South 
+Central
+New 
+England
+Middle 
+Atlantic
+South 
+Atlantic
+1-Month Change:
+Apr 24 - May 24
+0.0%
+-0.3%
+0.1%
+-0.5%
+-0.1%
+0.2%
+-0.3%
+0.3%
+0.1%
+0.1%
+Mar  24 - Apr 24
+0.3%
+0.3%
+-0.1%
+0.8%
+-0.3%
+0.3%
+1.3%
+0.7%
+0.0%
+0.5%
+(Previous Estimate)
+0.2%
+0.4%
+0.0%
+0.6%
+-0.2%
+0.2%
+1.4%
+0.7%
+-0.2%
+0.1%
+Feb  24 - Mar 24
+0.1%
+-1.1%
+-0.1%
+0.0%
+0.3%
+0.6%
+-0.2%
+-0.5%
+0.9%
+0.1%
+(Previous Estimate)
+0.0%
+-1.1%
+-0.2%
+0.0%
+0.2%
+0.7%
+-0.5%
+-0.6%
+1.0%
+0.2%
+Jan  24 - Feb 24
+1.3%
+2.0%
+0.4%
+1.1%
+0.2%
+1.2%
+1.2%
+3.0%
+2.3%
+1.3%
+(Previous Estimate)
+1.3%
+1.9%
+0.5%
+1.1%
+0.2%
+1.2%
+1.5%
+3.0%
+2.3%
+1.2%
+Dec  23 - Jan 24
+-0.1%
+-0.2%
+0.2%
+1.4%
+0.7%
+-0.1%
+-1.0%
+0.4%
+-0.4%
+-0.8%
+(Previous Estimate)
+-0.1%
+-0.1%
+0.1%
+1.5%
+0.7%
+-0.1%
+-1.0%
+0.3%
+-0.3%
+-0.8%
+Nov  23 - Dec 23
+0.2%
+0.1%
+0.4%
+-0.7%
+-0.3%
+0.3%
+0.7%
+0.1%
+0.5%
+0.3%
+(Previous Estimate)
+0.2%
+0.2%
+0.3%
+-0.8%
+-0.3%
+0.3%
+0.6%
+0.2%
+0.5%
+0.3%
+12-Month Change:
+May  23 - May 24
+5.7%
+3.7%
+5.1%
+5.2%
+2.4%
+7.1%
+5.2%
+9.2%
+8.9%
+6.3%
+U.S.
+Pacific 
+Mountain West North 
+Central
+West South 
+Central
+East North 
+Central
+East South 
+Central
+New 
+England
+Middle 
+Atlantic
+South 
+Atlantic
+May-24
+424.6
+464.1
+595.8
+402.2
+420.2
+349.9
+398.6
+420.6
+379.6
+460.2
+April-24
+424.7
+465.6
+595.3
+404.1
+420.6
+349.2
+400.0
+419.5
+379.2
+459.6
+March-24
+423.3
+464.1
+596.0
+401.1
+421.9
+348.0
+394.7
+416.8
+379.0
+457.2
+February-24
+423.0
+469.1
+596.8
+401.0
+420.7
+345.8
+395.6
+418.9
+375.6
+456.6
+January-24
+417.6
+460.1
+594.4
+396.8
+420.0
+341.8
+390.9
+406.6
+367.1
+450.9
+December-23
+418.0
+461.1
+593.4
+391.5
+417.3
+342.0
+394.7
+405.0
+368.4
+454.5
+November-23
+417.3
+460.5
+591.3
+394.4
+418.4
+340.8
+391.9
+404.5
+366.7
+453.2
+October-23
+415.1
+458.0
+587.1
+391.9
+416.4
+339.0
+390.2
+406.7
+365.3
+450.1
+September-23
+413.5
+455.4
+587.3
+390.2
+417.6
+336.7
+387.0
+406.1
+362.1
+449.0
+August-23
+410.5
+456.1
+582.4
+389.4
+412.9
+334.4
+385.1
+399.5
+361.2
+442.7
+July-23
+407.4
+451.9
+578.5
+386.4
+411.0
+330.8
+382.7
+395.7
+356.0
+441.7
+June-23
+404.3
+450.7
+574.0
+384.1
+409.1
+327.0
+379.9
+393.5
+352.2
+437.6
+May-23
+401.7
+447.5
+566.9
+382.2
+410.4
+326.7
+378.8
+385.0
+348.6
+432.9
+April-23
+398.7
+439.7
+566.0
+378.7
+408.1
+323.0
+376.0
+385.8
+348.7
+430.0
+March-23
+396.2
+438.6
+562.8
+376.3
+407.2
+320.1
+377.4
+379.6
+342.4
+428.2
+February-23
+394.7
+437.7
+570.9
+374.6
+406.4
+316.7
+376.8
+377.0
+339.9
+425.7
+January-23
+391.7
+437.3
+562.9
+370.8
+401.2
+314.8
+371.4
+374.2
+336.8
+424.2
+December-22
+391.1
+438.4
+562.9
+369.3
+403.7
+313.7
+371.6
+367.3
+336.7
+421.9
+Source: FHFA
+Monthly Price Change Estimates for U.S. and Census Divisions
+Purchase-Only FHFA HPI® (Seasonally Adjusted, Nominal)
+Monthly Index Values for Latest 18 Months: U.S. and Census Divisions
+Purchase-Only FHFA HPI® (Seasonally Adjusted, Nominal, January 1991 = 100)
+- 3 -
+- 3 -
+Visualizing
+trends
+- 4 -
+- 4 -
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    
+    
+  
+ 
+    
+  
+ 
+    
+  
+ 
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+    
+  
+ 
+    
+Monthly House Price Index for U.S. from January 1991 - Present
+Purchase-Only FHFA HPI® (Seasonally Adjusted, Nominal)
+Source: FHFA
+- 5 -
+- 5 -
+- 5 -
+ 
+3.7%
+ 
+3.7%
+ 
+ 
+Twelve-Month House Price Changes – Prior Year vs. Most Recent Year
+Purchase-Only FHFA HPI(Seasonally Adjusted, Nominal)
+Price Change:  05/2022 - 05/2023
+Price Change:  05/2023 - 05/2024
+Source: FHFA
+- 6 -
+- 6 -
+- 6 -
+Further
+background
+information
+- 7 -
+- 7 -
+Overview of FHFA HPI 
+The FHFA House Price Index (FHFA HPI) is a broad economic measure of the movement of single-
+family house prices in the United States.  While FHFA produces the HPI by statutory mandate (12 U.S.C. 
+4542), it began in 1995 with predecessor agency, the Office of Federal Housing Enterprise Oversight.  The 
+initial reports only contained information about regional and national house price movements.  But 
+sample coverage has expanded with better access to new data sources and technological improvements 
+for processing such information.  Today, indexes cover all 50 states and over 400 American cities with 
+information extending back to the mid-1970s. 
+FHFA constructs several indexes for different market geographies and periods.  The entire suite is often 
+referenced as the “FHFA HPI” to reflect that we create all indexes in the same technical manner.  The 
+flagship FHFA HPI is the Purchase-Only Index, which uses seasonally adjusted, purchase-only data.  This 
+index is the most common choice for press releases, news stories, and social media.  FHFA created 
+additional indexes to address questions about house price changes in other market segments such as 
+refinances, Federal Housing Administration (FHA) mortgages, or the entire single-family property 
+market.  Data constraints preclude the production of some kinds of indexes in certain geographic areas, 
+but multiple index types (flavors) are generally available.  Quarterly reports usually contain index flavors 
+such as: 
+• 
+“Purchase-Only” HPI: Tracks changes in transaction prices for conforming, conventional 
+mortgages that are purchased or securitized  
+• 
+“All-Transactions” HPI: Adds appraisal values from refinance mortgages to the Purchase-Only 
+HPI data sample 
+• 
+“Expanded-Data” HPI: Adds sales price information sourced from county recorder offices and 
+FHA-backed mortgages to the Purchase-Only HPI data sample.  We use this index to adjust the 
+conforming loan limits, which establishes the dollar amount of loans that Fannie Mae and Freddie 
+Mac can acquire. 
+• 
+“Distress-Free” HPI: Removes sales of bank-owned properties and short sales from the Purchase-
+Only dataset 
+• 
+“Annual” HPI. Uses the All-Transactions data but constructs indexes on a yearly basis to provide 
+data for very small geographic areas like counties, ZIP codes, and census tracts 
+The summary table below details the frequency and geography of the available indexes.  
+ 
+ 
+National 
+Census 
+Division 
+States 
+MSAs or 
+Cities 
+ZIP3,  
+Non-metro 
+ZIP 
+Codes 
+Counties 
+Census 
+Tracts 
+Monthly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quarterly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FHFA builds the HPI suite on tens of millions of home sales and offers insights about house price 
+fluctuations at various geographic levels.  For more information, see the HPI Frequently Asked Questions. 
+- 8 -
+- 8 -
+FHFA HPI Release Dates for 2024 
+ 
+Public FHFA HPI® releases occur at 9AM ET and include a press release, tables, figures, and associated data. 
+ 
+Date 
+Release Type 
+Latest Included Data 
+Tuesday, January 30 
+Monthly Index 
+November 2023 
+Tuesday, February 27 
+Quarterly Index (with Monthly Tables) 
+December 2023 and 2023Q4 
+Tuesday, March 26 
+Monthly Index 
+January 2024 
+Tuesday, April 30 
+Monthly Index 
+February 2024 
+Tuesday, May 28 
+Quarterly Index (with Monthly Tables) 
+March 2024 and 2024Q1 
+Tuesday, June 25 
+Monthly Index 
+April 2024 
+Tuesday, July 30 
+Monthly Index 
+May 2024 
+Tuesday, August 27 
+Quarterly Index (with Monthly Tables) 
+June 2024 and 2024Q2 
+Tuesday, September 24 
+Monthly Index 
+July 2024 
+Tuesday, October 29 
+Monthly Index 
+August 2024 
+Tuesday, November 26 
+Quarterly Index (with Monthly Tables) 
+September 2024 and 2024Q3 
+Tuesday, December 31 
+Monthly Index 
+October 2024 
+ 
+All data are freely available for download from the FHFA HPI website at  
+https://www.fhfa.gov/HPI 
+- 9 -
+- 9 -
+Appendix
+- 10
+10 -
+- 10 -
+Date
+Index
+1/1/1991
+100.00
+2/1/1991
+100.45
+3/1/1991
+100.48
+4/1/1991
+100.33
+5/1/1991
+100.38
+6/1/1991
+100.50
+7/1/1991
+100.54
+8/1/1991
+100.38
+9/1/1991
+100.61
+10/1/1991
+100.92
+11/1/1991
+101.41
+12/1/1991
+101.88
+1/1/1992
+102.23
+2/1/1992
+102.97
+3/1/1992
+102.81
+4/1/1992
+102.56
+5/1/1992
+102.59
+6/1/1992
+102.51
+7/1/1992
+102.86
+8/1/1992
+103.32
+9/1/1992
+103.71
+10/1/1992
+104.03
+11/1/1992
+104.29
+12/1/1992
+104.21
+1/1/1993
+104.25
+2/1/1993
+104.07
+3/1/1993
+104.38
+4/1/1993
+105.02
+5/1/1993
+105.25
+6/1/1993
+105.61
+7/1/1993
+105.67
+8/1/1993
+106.06
+9/1/1993
+106.45
+10/1/1993
+106.65
+11/1/1993
+106.99
+12/1/1993
+107.51
+1/1/1994
+107.77
+2/1/1994
+108.00
+3/1/1994
+108.37
+Monthly House Price Index for U.S. 
+from January 1991 - Present
+Purchase-Only FHFA HPI®
+(Seasonally Adjusted, Nominal)
+- 11
+11 -
+- 11 -
+4/1/1994
+108.69
+5/1/1994
+109.04
+6/1/1994
+109.23
+7/1/1994
+109.35
+8/1/1994
+109.62
+9/1/1994
+109.70
+10/1/1994
+109.97
+11/1/1994
+110.20
+12/1/1994
+110.20
+1/1/1995
+110.50
+2/1/1995
+111.10
+3/1/1995
+110.93
+4/1/1995
+111.20
+5/1/1995
+111.35
+6/1/1995
+111.73
+7/1/1995
+112.25
+8/1/1995
+112.55
+9/1/1995
+112.78
+10/1/1995
+112.83
+11/1/1995
+113.07
+12/1/1995
+113.54
+1/1/1996
+113.97
+2/1/1996
+114.12
+3/1/1996
+114.54
+4/1/1996
+114.80
+5/1/1996
+115.06
+6/1/1996
+115.16
+7/1/1996
+115.56
+8/1/1996
+115.57
+9/1/1996
+115.86
+10/1/1996
+115.98
+11/1/1996
+116.29
+12/1/1996
+116.65
+1/1/1997
+116.79
+2/1/1997
+117.08
+3/1/1997
+117.55
+4/1/1997
+117.77
+5/1/1997
+118.20
+6/1/1997
+118.26
+7/1/1997
+118.56
+8/1/1997
+119.00
+9/1/1997
+119.16
+10/1/1997
+119.78
+11/1/1997
+120.16
+12/1/1997
+120.56
+- 12
+12 -
+- 12 -
+1/1/1998
+121.00
+2/1/1998
+121.86
+3/1/1998
+122.28
+4/1/1998
+122.82
+5/1/1998
+123.31
+6/1/1998
+124.10
+7/1/1998
+124.43
+8/1/1998
+124.95
+9/1/1998
+125.74
+10/1/1998
+126.27
+11/1/1998
+127.09
+12/1/1998
+127.68
+1/1/1999
+128.38
+2/1/1999
+128.92
+3/1/1999
+129.49
+4/1/1999
+130.12
+5/1/1999
+130.89
+6/1/1999
+131.50
+7/1/1999
+132.23
+8/1/1999
+133.02
+9/1/1999
+133.41
+10/1/1999
+134.21
+11/1/1999
+134.77
+12/1/1999
+135.45
+1/1/2000
+137.01
+2/1/2000
+136.85
+3/1/2000
+137.90
+4/1/2000
+138.83
+5/1/2000
+139.41
+6/1/2000
+140.37
+7/1/2000
+141.11
+8/1/2000
+141.64
+9/1/2000
+142.50
+10/1/2000
+143.31
+11/1/2000
+144.18
+12/1/2000
+145.03
+1/1/2001
+145.95
+2/1/2001
+146.96
+3/1/2001
+147.74
+4/1/2001
+148.61
+5/1/2001
+149.26
+6/1/2001
+149.97
+7/1/2001
+150.82
+8/1/2001
+151.54
+9/1/2001
+152.32
+- 13
+13 -
+- 13 -
+10/1/2001
+153.28
+11/1/2001
+153.75
+12/1/2001
+154.73
+1/1/2002
+155.58
+2/1/2002
+156.51
+3/1/2002
+157.50
+4/1/2002
+158.34
+5/1/2002
+159.41
+6/1/2002
+160.40
+7/1/2002
+161.43
+8/1/2002
+162.46
+9/1/2002
+163.46
+10/1/2002
+164.60
+11/1/2002
+165.55
+12/1/2002
+166.76
+1/1/2003
+167.78
+2/1/2003
+168.83
+3/1/2003
+169.37
+4/1/2003
+170.44
+5/1/2003
+171.35
+6/1/2003
+172.15
+7/1/2003
+173.42
+8/1/2003
+174.71
+9/1/2003
+176.11
+10/1/2003
+177.14
+11/1/2003
+178.55
+12/1/2003
+180.02
+1/1/2004
+181.17
+2/1/2004
+182.56
+3/1/2004
+183.89
+4/1/2004
+185.42
+5/1/2004
+187.17
+6/1/2004
+189.08
+7/1/2004
+190.62
+8/1/2004
+192.00
+9/1/2004
+193.49
+10/1/2004
+194.95
+11/1/2004
+196.74
+12/1/2004
+198.46
+1/1/2005
+199.87
+2/1/2005
+201.33
+3/1/2005
+203.37
+4/1/2005
+205.17
+5/1/2005
+206.87
+6/1/2005
+208.62
+- 14
+14 -
+- 14 -
+7/1/2005
+210.73
+8/1/2005
+212.24
+9/1/2005
+214.20
+10/1/2005
+215.39
+11/1/2005
+216.79
+12/1/2005
+218.07
+1/1/2006
+219.45
+2/1/2006
+219.87
+3/1/2006
+220.74
+4/1/2006
+221.15
+5/1/2006
+221.71
+6/1/2006
+221.69
+7/1/2006
+221.57
+8/1/2006
+222.14
+9/1/2006
+222.09
+10/1/2006
+222.35
+11/1/2006
+223.01
+12/1/2006
+223.08
+1/1/2007
+223.89
+2/1/2007
+223.91
+3/1/2007
+224.79
+4/1/2007
+224.85
+5/1/2007
+223.73
+6/1/2007
+222.85
+7/1/2007
+221.77
+8/1/2007
+220.76
+9/1/2007
+219.88
+10/1/2007
+218.04
+11/1/2007
+216.57
+12/1/2007
+215.44
+1/1/2008
+213.65
+2/1/2008
+212.30
+3/1/2008
+210.45
+4/1/2008
+208.09
+5/1/2008
+205.80
+6/1/2008
+204.47
+7/1/2008
+202.56
+8/1/2008
+200.50
+9/1/2008
+198.67
+10/1/2008
+197.03
+11/1/2008
+193.51
+12/1/2008
+192.98
+1/1/2009
+194.52
+2/1/2009
+194.80
+3/1/2009
+192.46
+- 15
+15 -
+- 15 -
+4/1/2009
+191.27
+5/1/2009
+191.15
+6/1/2009
+191.09
+7/1/2009
+190.50
+8/1/2009
+190.20
+9/1/2009
+189.98
+10/1/2009
+190.36
+11/1/2009
+190.95
+12/1/2009
+189.21
+1/1/2010
+189.22
+2/1/2010
+188.44
+3/1/2010
+188.17
+4/1/2010
+188.46
+5/1/2010
+188.42
+6/1/2010
+186.45
+7/1/2010
+185.29
+8/1/2010
+185.11
+9/1/2010
+183.31
+10/1/2010
+183.60
+11/1/2010
+183.00
+12/1/2010
+181.66
+1/1/2011
+180.60
+2/1/2011
+179.01
+3/1/2011
+177.05
+4/1/2011
+177.47
+5/1/2011
+177.07
+6/1/2011
+177.50
+7/1/2011
+177.84
+8/1/2011
+177.39
+9/1/2011
+178.40
+10/1/2011
+177.48
+11/1/2011
+178.20
+12/1/2011
+178.74
+1/1/2012
+178.02
+2/1/2012
+178.55
+3/1/2012
+180.01
+4/1/2012
+180.91
+5/1/2012
+181.98
+6/1/2012
+182.73
+7/1/2012
+183.11
+8/1/2012
+184.41
+9/1/2012
+185.07
+10/1/2012
+185.97
+11/1/2012
+186.86
+12/1/2012
+187.79
+- 16
+16 -
+- 16 -
+1/1/2013
+189.18
+2/1/2013
+190.40
+3/1/2013
+192.26
+4/1/2013
+193.21
+5/1/2013
+194.75
+6/1/2013
+195.95
+7/1/2013
+197.04
+8/1/2013
+197.63
+9/1/2013
+198.59
+10/1/2013
+199.15
+11/1/2013
+199.22
+12/1/2013
+200.41
+1/1/2014
+201.25
+2/1/2014
+202.06
+3/1/2014
+202.64
+4/1/2014
+203.30
+5/1/2014
+203.70
+6/1/2014
+204.73
+7/1/2014
+205.57
+8/1/2014
+206.34
+9/1/2014
+206.56
+10/1/2014
+207.68
+11/1/2014
+208.78
+12/1/2014
+210.03
+1/1/2015
+210.37
+2/1/2015
+211.89
+3/1/2015
+212.56
+4/1/2015
+213.35
+5/1/2015
+214.56
+6/1/2015
+215.42
+7/1/2015
+216.42
+8/1/2015
+216.88
+9/1/2015
+217.92
+10/1/2015
+219.15
+11/1/2015
+220.23
+12/1/2015
+221.20
+1/1/2016
+222.22
+2/1/2016
+222.34
+3/1/2016
+223.97
+4/1/2016
+225.18
+5/1/2016
+226.11
+6/1/2016
+227.37
+7/1/2016
+228.55
+8/1/2016
+229.62
+9/1/2016
+230.91
+- 17
+17 -
+- 17 -
+10/1/2016
+232.16
+11/1/2016
+233.15
+12/1/2016
+234.58
+1/1/2017
+234.86
+2/1/2017
+236.10
+3/1/2017
+237.45
+4/1/2017
+239.30
+5/1/2017
+240.45
+6/1/2017
+241.35
+7/1/2017
+242.65
+8/1/2017
+244.22
+9/1/2017
+245.34
+10/1/2017
+246.33
+11/1/2017
+247.98
+12/1/2017
+249.07
+1/1/2018
+251.01
+2/1/2018
+252.69
+3/1/2018
+253.55
+4/1/2018
+254.24
+5/1/2018
+255.46
+6/1/2018
+256.57
+7/1/2018
+257.58
+8/1/2018
+258.88
+9/1/2018
+259.34
+10/1/2018
+260.27
+11/1/2018
+261.85
+12/1/2018
+262.60
+1/1/2019
+264.24
+2/1/2019
+264.75
+3/1/2019
+265.60
+4/1/2019
+266.89
+5/1/2019
+268.16
+6/1/2019
+269.05
+7/1/2019
+270.10
+8/1/2019
+271.19
+9/1/2019
+272.79
+10/1/2019
+274.17
+11/1/2019
+275.89
+12/1/2019
+278.19
+1/1/2020
+280.09
+2/1/2020
+281.86
+3/1/2020
+282.33
+4/1/2020
+282.74
+5/1/2020
+281.78
+6/1/2020
+284.75
+- 18
+18 -
+- 18 -
+7/1/2020
+288.72
+8/1/2020
+293.79
+9/1/2020
+298.56
+10/1/2020
+303.24
+11/1/2020
+306.93
+12/1/2020
+311.12
+1/1/2021
+314.79
+2/1/2021
+317.52
+3/1/2021
+322.05
+4/1/2021
+327.01
+5/1/2021
+332.30
+6/1/2021
+338.31
+7/1/2021
+343.52
+8/1/2021
+347.63
+9/1/2021
+351.31
+10/1/2021
+356.02
+11/1/2021
+361.12
+12/1/2021
+366.54
+1/1/2022
+371.86
+2/1/2022
+377.49
+3/1/2022
+381.96
+4/1/2022
+386.78
+5/1/2022
+390.56
+6/1/2022
+391.33
+7/1/2022
+389.24
+8/1/2022
+388.06
+9/1/2022
+389.03
+10/1/2022
+389.90
+11/1/2022
+390.23
+12/1/2022
+391.07
+1/1/2023
+391.73
+2/1/2023
+394.71
+3/1/2023
+396.22
+4/1/2023
+398.66
+5/1/2023
+401.72
+6/1/2023
+404.34
+7/1/2023
+407.43
+8/1/2023
+410.49
+9/1/2023
+413.54
+10/1/2023
+415.11
+11/1/2023
+417.26
+12/1/2023
+417.96
+1/1/2024
+417.60
+2/1/2024
+423.02
+3/1/2024
+423.28
+- 19
+19 -
+- 19 -
+4/1/2024
+424.72
+5/1/2024
+424.60
+- 20
+20 -
+- 20 -
+Region
+Previous Twelve Months
+Current Twelve Months
+U.S.
+2.9%
+5.7%
+Pacific 
+-1.6%
+3.7%
+Mountain
+-3.1%
+5.1%
+West North Central
+4.2%
+5.2%
+West South Central
+2.4%
+2.4%
+East North Central
+5.6%
+7.1%
+East South Central
+4.8%
+5.2%
+New England
+3.7%
+9.2%
+Middle Atlantic
+4.9%
+8.9%
+South Atlantic
+4.1%
+6.3%
+Source:  FHFA
+Twelve-Month House Price Changes
+Purchase-Only FHFA HPI® (Seasonally Adjusted, Nominal)
+- 21
+21 -
+- 21 -

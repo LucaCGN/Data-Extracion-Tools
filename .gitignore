@@ -1,0 +1,51 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+venv/
+ENV/
+.venv/
+env/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+
+# Logs
+*.log
+*.out
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Notion Tokens or Credentials (Make sure not to push sensitive data)
+notion_creds.json
+*.token
